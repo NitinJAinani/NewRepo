@@ -10,7 +10,7 @@ namespace CRMSApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is CRMS and testing of git gh");
+            Console.WriteLine("This is CRMS and testing of git gh test");
 
         }
     }
