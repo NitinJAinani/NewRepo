@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CRMSApp
+namespace ConsoleApplicationConsole2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is CRMS and testing of git gh test");
-            Console.WriteLine("this is modified");
         }
     }
 }
